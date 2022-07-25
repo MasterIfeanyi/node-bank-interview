@@ -1,6 +1,6 @@
 # Getting started
 
-This is the backend REST API for the web app I built [bank](https://ifeanyi-bank.netlify.app)
+This is the backend REST API for the web app I built, click the link [bank](https://ifeanyi-bank.netlify.app) to view it.
 
 To run the app use `npm start`
 
@@ -50,7 +50,7 @@ const money = amount.toLocaleString("en-US")
 
 ## Deploy
 
-This nodejs app is deployed on Heroku 
+This nodejs app is deployed on [Heroku](https://ifeanyi-bank-backend.herokuapp.com) 
 
 ## mongo-db
 
