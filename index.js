@@ -59,6 +59,4 @@ app.use("/users", userRoutes);
 app.use("/account", account);
 app.use("/history", history);
 
-app.listen(PORT, () => console.log(`server is running on ${PORT}`))
-
-// MONGO_URI=mongodb+srv://mongotut:testing123@cluster0.kogqa.mongodb.net/BankDB?retryWrites=true&w=majority
+app.listen(PORT, () => console.log(`server is running on ${PORT}`));
