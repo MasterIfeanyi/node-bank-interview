@@ -1,4 +1,4 @@
-# Getting started
+# Chima Ifeanyi ThankGod
 
 This is the backend REST API for the web app I built, click the link [bank](https://ifeanyi-bank.netlify.app) to view it.
 
