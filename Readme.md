@@ -1,6 +1,6 @@
 # Getting started
 
-This is the backend REST API for the web app I built [stocks](https://ifeanyi-stocks.netlify.app)
+This is the backend REST API for the web app I built [bank](https://ifeanyi-bank.netlify.app)
 
 To run the app use `npm start`
 
